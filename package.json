@@ -1,0 +1,14 @@
+{
+  "name": "San-hu",
+  "version": "1.0.0",
+  "description": "API xem kết quả Tài Xỉu SunWin mới nhất và lịch sử",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.27.2",
+    "@fastify/cors": "^8.3.0",
+    "ws": "^8.13.0"
+  }
+}
